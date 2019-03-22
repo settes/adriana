@@ -1511,7 +1511,7 @@ body {
 }
 .cid-rl75yvnJk1 .box-item {
   width: 29%;
-  padding: 2.5rem;
+  padding: 1.5rem;
 }
 .cid-rl75yvnJk1 .box-item:first-child {
   background-color: #01bcb5;
@@ -1718,8 +1718,59 @@ body {
   padding: 0.5rem 1rem;
   white-space: nowrap;
   text-overflow: ellipsis;
-  max-width: 90%;
+  max-width: 70%;
   overflow: hidden;
+}
+.cid-rlqzX17mVv {
+  padding-top: 120px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/group-coaching-min-1000x665.jpg");
+}
+.cid-rlqzX17mVv .media-container-column .btn-bgr {
+  z-index: 0;
+}
+.cid-rlqzX17mVv .mbr-overlay {
+  background: linear-gradient(#ffaf0f -10%, #01bcb5 75%);
+}
+.cid-rlqzX17mVv .mbr-text,
+.cid-rlqzX17mVv .mbr-section-btn {
+  color: #ffffff;
+}
+.cid-rlqzXBJFs0 {
+  padding-top: 45px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-rlqzXBJFs0 span {
+  color: #c1c1c1;
+}
+.cid-rlqzXBJFs0 .flex-block {
+  display: flex;
+  -webkit-justify-content: space-between;
+  justify-content: space-between;
+}
+.cid-rlqzXBJFs0 .flex-block span {
+  font-size: 3rem;
+  margin-right: 3rem;
+}
+@media (min-width: 577px) {
+  .cid-rlqzXBJFs0 .flex-block span {
+    margin-left: 2rem;
+  }
+}
+.cid-rlqzXBJFs0 .block-quote {
+  color: #01bcb5;
+}
+.cid-rlqzXBJFs0 .block-quote B {
+  color: #01bcb5;
+}
+.cid-rlqzYct1BQ {
+  padding-top: 15px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-rlqzYct1BQ B {
+  color: #000000;
 }
 .cid-rl71ubESjL {
   padding-top: 120px;
@@ -1802,6 +1853,115 @@ body {
   padding-top: 15px;
   padding-bottom: 60px;
   background-color: #ffffff;
+}
+.cid-rlqA0gw2TK {
+  padding-top: 120px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/businesspeople-listening-to-speaker-at-conference-41bsfm9y-f0000-1920x1080.png");
+}
+.cid-rlqA0gw2TK .media-container-column .btn-bgr {
+  z-index: 0;
+}
+.cid-rlqA0gw2TK .mbr-overlay {
+  background: linear-gradient(#ffaf0f -10%, #01bcb5 75%);
+}
+.cid-rlqA0gw2TK .mbr-text,
+.cid-rlqA0gw2TK .mbr-section-btn {
+  color: #ffffff;
+}
+.cid-rlqA0RBPrt {
+  padding-top: 45px;
+  padding-bottom: 30px;
+  background-color: #ffffff;
+}
+.cid-rlqA0RBPrt span {
+  color: #c1c1c1;
+}
+.cid-rlqA0RBPrt .flex-block {
+  display: flex;
+  -webkit-justify-content: space-between;
+  justify-content: space-between;
+}
+.cid-rlqA0RBPrt .flex-block span {
+  font-size: 3rem;
+  margin-right: 3rem;
+}
+@media (min-width: 577px) {
+  .cid-rlqA0RBPrt .flex-block span {
+    margin-left: 2rem;
+  }
+}
+.cid-rlqA0RBPrt .block-quote {
+  color: #951d19;
+}
+.cid-rlqA0RBPrt .block-quote B {
+  color: #01bcb5;
+}
+.cid-rlqIz50utl {
+  padding-top: 45px;
+  padding-bottom: 45px;
+  background-color: #ffffff;
+}
+.cid-rlqIz50utl span {
+  color: #c1c1c1;
+}
+.cid-rlqIz50utl .flex-block {
+  display: flex;
+  -webkit-justify-content: space-between;
+  justify-content: space-between;
+}
+.cid-rlqIz50utl .flex-block span {
+  font-size: 3rem;
+  margin-right: 3rem;
+}
+@media (min-width: 577px) {
+  .cid-rlqIz50utl .flex-block span {
+    margin-left: 2rem;
+  }
+}
+.cid-rlqL14EUI8 {
+  padding-top: 0px;
+  padding-bottom: 45px;
+  background-color: #ffffff;
+}
+.cid-rlqL14EUI8 span {
+  color: #c1c1c1;
+}
+.cid-rlqL14EUI8 .flex-block {
+  display: flex;
+  -webkit-justify-content: space-between;
+  justify-content: space-between;
+}
+.cid-rlqL14EUI8 .flex-block span {
+  font-size: 3rem;
+  margin-right: 3rem;
+}
+@media (min-width: 577px) {
+  .cid-rlqL14EUI8 .flex-block span {
+    margin-left: 2rem;
+  }
+}
+.cid-rlqL1DQMNB {
+  padding-top: 0px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-rlqL1DQMNB span {
+  color: #c1c1c1;
+}
+.cid-rlqL1DQMNB .flex-block {
+  display: flex;
+  -webkit-justify-content: space-between;
+  justify-content: space-between;
+}
+.cid-rlqL1DQMNB .flex-block span {
+  font-size: 3rem;
+  margin-right: 3rem;
+}
+@media (min-width: 577px) {
+  .cid-rlqL1DQMNB .flex-block span {
+    margin-left: 2rem;
+  }
 }
 .cid-rl9aNgtAiS {
   padding-top: 90px;
