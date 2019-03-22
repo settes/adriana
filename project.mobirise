@@ -39,7 +39,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.9.5",
     "siteFonts": [],
-    "uniqCompNum": 30,
+    "uniqCompNum": 17,
     "versionPublish": "4.9.6",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/icone-128x128.png",
@@ -1282,7 +1282,7 @@
             "background-color": "@bgColor"
           },
           "_name": "content2",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8\">\n                <p class=\"mbr-fonts-style block-text\" data-app-selector=\".block-text\" mbr-theme-style=\"display-7\"></p><p align=\"justify\">Pessoas de sucesso profissional nem sempre conseguem o mesmo nível de sucesso em outras áreas de suas vidas. As diversas áreas que compõem as nossas vidas são interdependentes e por isso mesmo elas tem o poder de se afetarem positiva ou negativamente entre si. <br><br>É comum que quando alguém dedica menos foco a alguma área importante da vida, essa mesma área influencie negativamente uma ou até mais de uma área. Uma pessoa de sucesso profissional ao não dar foco a sua saúde ou sua família por exemplo, em algum momento a perda de saúde e problemas nos relacionamentos íntimos pode afetar a própria vida profissional, aumentando sua insatisfação e frustração geral. Este programa visa capacitar o Coachee através de profundas reflexões e poderosas ferramentas de Coaching a melhor gerenciar suas diversas áreas de vida e proporcionar um aumento no seu nível de satisfação, equilíbrio e autorrealização</p>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8\">\n                <p class=\"mbr-fonts-style block-text\" data-app-selector=\".block-text\" mbr-theme-style=\"display-7\"></p><p align=\"justify\">Pessoas de sucesso profissional nem sempre conseguem o mesmo nível de sucesso em outras áreas de suas vidas. As diversas áreas que compõem as nossas vidas são interdependentes e por isso mesmo elas tem o poder de se afetarem positiva ou negativamente entre si. <br><br>É comum que quando alguém dedica menos foco a alguma área importante da vida, essa mesma área influencie negativamente uma ou até mais de uma área. Uma pessoa de sucesso profissional ao não dar foco a sua saúde ou sua família por exemplo, em algum momento a perda de saúde e problemas nos relacionamentos íntimos pode afetar a própria vida profissional, aumentando sua insatisfação e frustração geral. Este programa visa capacitar o Coachee através de profundas reflexões e poderosas ferramentas de Coaching a melhor gerenciar suas diversas áreas de vida e proporcionar um aumento no seu nível de satisfação, equilíbrio e autorrealização.<br><br><a href=\"index.html#form2-i\">CLIQUE AQUI</a>, fale conosco e saiba mais informações<br></p>\n            </div>\n        </div>\n    </div>\n</section>",
           "_anchor": "content2-o",
           "_isUserblock": true,
           "_sourceTheme": "agencym4",
@@ -1354,7 +1354,7 @@
               }
             },
             ".block-quote": {
-              "color": "#951d19"
+              "color": "#01bcb5"
             },
             ".block-quote B": {
               "color": "#01bcb5"
